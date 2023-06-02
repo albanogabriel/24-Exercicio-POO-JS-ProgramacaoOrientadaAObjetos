@@ -46,15 +46,6 @@ console.log(jessica)
 const luiza = new Luiza
 console.log(luiza)
 
-gabriel.setCpf('02577465');
-console.log(gabriel.getCpf()); 
-
-jessica.setCpf('65774265');
-console.log(jessica.getCpf()); 
-
-luiza.setCpf('36577465');
-console.log(luiza.getCpf());
-
 console.log(gabriel.nome, gabriel.getCpf());
 console.log(jessica.nome, jessica.getCpf());
 console.log(luiza.nome, luiza.getCpf());
